@@ -1,3 +1,5 @@
+Rendu de Loric Worms
+
 # **Exercice 1 : Back-end d'une Plateforme d'Analyse E-sportive**
 
 ## \*\*Pitch du projet
